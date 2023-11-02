@@ -2,7 +2,7 @@
 
 ## 1 - Sobre
 
-Muitas vezes empreendedores tem dificuldade em gerenciar pedidos e saber onde exatamente existe maior demanda de clientes. O sistema de gerenciamento de pedidos vem para resover essa demanda. Com ele, é possível cadastrar novos pedidos, listar os pedidos já cadastrados no sistema, exportar esses pedidos para uma planilha no formato do excel (.xlsx) e fechar pedidos que já foram entregues.
+Muitas vezes, empreendedores tem dificuldade em gerenciar pedidos e saber onde exatamente existe maior demanda de clientes. O sistema de gerenciamento de pedidos vem para resover essa demanda. Com ele, é possível cadastrar novos pedidos, listar os pedidos já cadastrados no sistema, exportar esses pedidos para uma planilha no formato do excel (.xlsx) e fechar pedidos que já foram entregues.
 
 O sistema tem um módulo de análise de clientes. Com ele, é possível visualizar onde os pedidos em um determinado período foram feitos e gerar um mapa de calor para determinar em quais localidades há maior demanda.
 
